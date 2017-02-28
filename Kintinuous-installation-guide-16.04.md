@@ -1,6 +1,7 @@
 # Kintinuous installation guide for Ubuntu 16.04
 > Edit: 2017/02/28  
 > Author: Kangel Zenn
+
 ## Testing Environment
 
 ### Hardware
