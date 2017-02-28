@@ -5,6 +5,8 @@
 Kintinuous GitHub repository
 (https://github.com/mp3guy/Kintinuous)
 
+The following guide is for Ubuntu 14.04.  
+For Ubuntu 16.04 users, please check [this](./Kintinuous-installation-guide-16.04.md).
 # Testing Environment
 ## Hardware
 * CPU: Core i5-3470 CPU at 3.20GHz
